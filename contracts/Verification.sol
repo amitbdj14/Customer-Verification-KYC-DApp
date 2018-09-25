@@ -28,7 +28,7 @@ contract Verification {
     // method to verify customer signature
     function verifyCustomerSignature (string _message, address _account, string _signature) public  returns (bool) {
         // ecrecover of signature should be equal to account
-        _signature = _signature._substring(130,2); //remove 0x
+        _signature = _signature._substring(130, 2); //remove 0x
         string memory rs = "0x".concat(_signature._substring(64, 0));
         string memory ss = "0x".concat(_signature._substring(64, 64));
         string memory vs = _signature._substring(2, 128);
