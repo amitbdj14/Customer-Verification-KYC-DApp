@@ -3,7 +3,7 @@
 This is an implementation of solution of KYC problem faced by many financial and other organisations
 Follow the steps below to download, install, and run this project.
 
-Dependencies
+##Dependencies
 Install these prerequisites to follow along with the tutorial. 
 
 NPM: https://nodejs.org
