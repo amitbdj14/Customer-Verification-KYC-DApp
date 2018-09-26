@@ -1,6 +1,6 @@
 # Customer-Verification-KYC-DApp
 
-This is an implementation of solution of KYC problem faced by many financial and other organisations
+This is an implementation of solution of KYC problem faced by many financial and other organisations.
 Follow the steps below to download, install, and run this project.
 
 # Dependencies
