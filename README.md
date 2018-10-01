@@ -23,7 +23,6 @@ Open the Ganache GUI client that you downloaded and installed. This will start y
 $ truffle migrate --reset You must migrate the verification smart contract each time your restart ganache.
 
 # Step 5. Configure Metamask
-See free video tutorial for full explanation of these steps:
 
 Unlock Metamask
 Connect metamask to your local Etherum blockchain provided by Ganache.
